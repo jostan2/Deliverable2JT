@@ -512,11 +512,6 @@
             double bill = 9.99 * patron + total*1.50;
 
             Console.WriteLine("Your total bill is ${0}. Thank you for coming!", + bill);
-            //multiply sodas by $1.50 each, = int total
-            // minus sodas from #patron to get water.
-            //linewrite total $ of meal.
-
-            
             }
         }
     }
